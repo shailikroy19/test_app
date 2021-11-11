@@ -193,7 +193,7 @@ class _HomeState extends State<Home> {
         // build your appBar
         Container(
           width: MediaQuery.of(context).size.width,
-          height: 300.0,
+          height: 270.0,
           decoration: BoxDecoration(
             color: Colors.orange[200],
             borderRadius: BorderRadius.only(
